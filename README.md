@@ -18,5 +18,5 @@ http://yusynth.net/Modular/EN/MIXOUT/index.html
 
 - done: first schematic & board design
 - todo: breadboard and test
-- todo: design frontpanel
+- done: design frontpanel
 - todo: order PCB and build prototype
