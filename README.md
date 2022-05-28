@@ -14,9 +14,10 @@ how many channels/voice you want to add.
 The original design:
 http://yusynth.net/Modular/EN/MIXOUT/index.html
 
-## Status: Work in Progress
+## Status: (Almost) Finished
 
 - done: first schematic & board design
-- todo: breadboard and test
+- done: breadboard and test
 - done: design frontpanel
-- todo: order PCB and build prototype
+- done: order PCB and build prototype
+- todo: build frontpanel
